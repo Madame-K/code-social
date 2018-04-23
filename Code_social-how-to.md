@@ -62,3 +62,6 @@ Le code social et solidaire propose une collaboration sans lien de subordination
 Le code social et solidaire est rédigé et amendés collaborativement par ses membres/acteurs. 
 Il est admis que le code social et solidaire lui-même est soumis à ces mêmes règles.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzU4NzQzOTk2XX0=
+-->
