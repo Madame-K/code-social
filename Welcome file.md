@@ -8,7 +8,7 @@
 
 Crédits et licence : Le #CodeSocial a été inventé par Mathieu Coste et a été développé dans le cadre de Commons to Commons. Il est publié sous licence CC BY SA.
 
--   **Forme Juridique**  : Association Loi 1901
+-   **Forme Juridique**  : Projet de l'Assemblée virtuelle
 
 -   **Définition / description**  : L’Assemblée Virtuelle est un écosystème d’acteurs développant de manière collaborative des communs (outils, méthodologies et projets) au service du monde de la transition. Elle fait un usage intensif des technologies du web sémantique ainsi que du modèle PAIR à PAIR, dont elle est à l’origine.
 
@@ -62,6 +62,6 @@ Crédits et licence : Le #CodeSocial a été inventé par Mathieu Coste et a ét
 
 -   Compétences : Développement web, intelligence de la complexité, ingénierie du lien (numérique, social)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA1MjI4MjksLTg5MDE5NzkyOSwyMD
-g2ODM1MTUzXX0=
+eyJoaXN0b3J5IjpbMTUwODgzNzMwMCwtODkwMTk3OTI5LDIwOD
+Y4MzUxNTNdfQ==
 -->
