@@ -65,3 +65,6 @@ Crédits et licence : Le #CodeSocial a été inventé par Mathieu Coste et a ét
 eyJoaXN0b3J5IjpbLTk2NDE0OTAyNywxNTA4ODM3MzAwLC04OT
 AxOTc5MjksMjA4NjgzNTE1M119
 -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTM2MTQ5NjgzXX0=
+-->
