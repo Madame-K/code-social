@@ -10,7 +10,7 @@ Crédits et licence : Le #CodeSocial a été inventé par Mathieu Coste et a ét
 
 -   **Forme Juridique**  : Ce projet n'a pas de forme juridique. Il est lancée bénévolement par des membres de l'Assemblée Virtuelle (association)
 
--   **Définition / description**  : Ce proje
+-   **Définition / description**  : Ce projet reprend notamment les travaux de Mathieu Coste afin de lui apporter de la visibilité.
 
 -   **Date de création**  : 31 mai 2011
 
@@ -62,6 +62,6 @@ Crédits et licence : Le #CodeSocial a été inventé par Mathieu Coste et a ét
 
 -   Compétences : Développement web, intelligence de la complexité, ingénierie du lien (numérique, social)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzkyOTM1NSwxNTA4ODM3MzAwLC04OT
+eyJoaXN0b3J5IjpbLTk2NDE0OTAyNywxNTA4ODM3MzAwLC04OT
 AxOTc5MjksMjA4NjgzNTE1M119
 -->
