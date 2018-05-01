@@ -4,6 +4,7 @@ https://cheznous.coop/modele-de-communaute-codesocial/
 https://www.virtual-assembly.org/code-social/
 https://chatons.org/charte-et-manifeste
 https://docs.google.com/document/d/132Ix2uVFcbHBc4U02S3wQ4GmaFxfU87TyH7sO3_EUik/edit#
+https://medium.com/the-happy-startup-school/introducing-the-happy-startup-canvas-76a71edc4af8
 
 
 Code Social—
